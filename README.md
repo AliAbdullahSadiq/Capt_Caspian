@@ -13,4 +13,3 @@ WASD or arrow keys.
 ## Notes
 
 I have only added the v0.03 build for now, but I intend to add all my scripts and other versions when my PC is up and running again.
-Feel free to look for the secret (it's not that well hidden...)
