@@ -10,6 +10,7 @@ See if you can find the secret room ;)
 
 WASD or arrow keys.
 
-## Notes
+## Special Thanks to:
 
-I have only added the v0.03 build for now, but I intend to add all my scripts and other versions when my PC is up and running again.
+Ansimuz for the [Sunny Land Asset Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+Brackeys for the [2D Character Controller Script](https://github.com/Brackeys/2D-Character-Controller)
