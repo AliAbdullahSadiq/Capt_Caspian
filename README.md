@@ -12,5 +12,5 @@ WASD or arrow keys.
 
 ## Special Thanks to:
 
-Ansimuz for the [Sunny Land Asset Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)
+Ansimuz for the [Sunny Land Asset Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)   
 Brackeys for the [2D Character Controller Script](https://github.com/Brackeys/2D-Character-Controller)
