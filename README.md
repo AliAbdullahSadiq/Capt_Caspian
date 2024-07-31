@@ -1,4 +1,4 @@
-# Capt.Caspian
+# Capt. Caspian
 A simple platforming game inspired by early Nintendo and Atari games.
 
 This was my first game I tried my hand at making (unless you count that Flappy bird game I learnt with my JavaScript course back in 2017).
