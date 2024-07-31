@@ -4,7 +4,7 @@ A simple platforming game inspired by early Nintendo and Atari games.
 This was my first game I tried my hand at making (unless you count that Flappy bird game I learnt with my JavaScript course back in 2017).
 It was my entry to The Lyceum College LyTech Fair 2023.
 
-![]([http://url/to/img.png](https://github.com/AliAbdullahSadiq/Capt_Caspian/blob/main/Capt%20Caspian%20Cover%20Art.jpg))
+![Capt Caspian Cover Art (Small)](https://github.com/user-attachments/assets/af33da85-86c7-49a3-adc7-12188db84336)
 
 See if you can find the secret room ;)
 
