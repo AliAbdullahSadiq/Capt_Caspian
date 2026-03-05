@@ -5,6 +5,7 @@ This was my first game I tried my hand at making (unless you count that Flappy b
 This was my entry to The Lyceum College LyTech Fair 2023.
 
 ![Capt Caspian Cover Art (Small)](https://github.com/user-attachments/assets/af33da85-86c7-49a3-adc7-12188db84336)
+for legal reasons, the ESRB rating is fake obviously...
 
 See if you can find the secret room ;)
 
@@ -13,6 +14,7 @@ Game files are under the `v0.04/` folder.
 
 ## Play
 To play, run ```v0.04/Capt. Caspian.exe```.
+The only way to quit out of the game is to kill the process by pressing `Alt+F4`...
 
 ## Controls
 
