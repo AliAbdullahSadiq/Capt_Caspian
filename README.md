@@ -5,7 +5,6 @@ This was my first game I tried my hand at making (unless you count that Flappy b
 This was my entry to The Lyceum College LyTech Fair 2023.
 
 ![Capt Caspian Cover Art (Small)](https://github.com/user-attachments/assets/af33da85-86c7-49a3-adc7-12188db84336)
-for legal reasons, the ESRB rating is fake obviously...
 
 See if you can find the secret room ;)
 
@@ -24,3 +23,6 @@ WASD or arrow keys.
 
 Ansimuz for the [Sunny Land Asset Pack](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)   
 Brackeys for the [2D Character Controller Script](https://github.com/Brackeys/2D-Character-Controller)
+
+
+for legal reasons, the ESRB rating is fake obviously...
