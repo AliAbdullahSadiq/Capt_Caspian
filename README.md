@@ -10,7 +10,6 @@ See if you can find the secret room ;)
 
 ## Files
 Game files are under the main branch.
-Source files are under the master branch.
 
 ## Play
 To play, run ```Capt. Caspian.exe```
