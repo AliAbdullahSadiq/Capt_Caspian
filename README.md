@@ -9,7 +9,11 @@ It was my entry to The Lyceum College LyTech Fair 2023.
 See if you can find the secret room ;)
 
 ## Files
-Source files are under the master branch. 
+Game files are under the main branch.
+Source files are under the master branch.
+
+## Play
+To play, run ```Capt. Caspian.exe```
 
 ## Controls
 
